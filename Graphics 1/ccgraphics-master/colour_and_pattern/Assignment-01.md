@@ -1,0 +1,13 @@
+- **This submission has two activities to complete:**
+    -   [Colour Palettes](https://www.notion.so/Graphics-1-Colour-Pattern-04b6e708c6d8458385983451668db0a3) (3 palettes, assessed)
+        -  Make a modified version of drawMonochromaticPallette() to that uses brightness AND saturation
+        -   Make another version of drawAnalogousPallette() using different colour intervals.  
+        -   Create another pallette function using another system. See class readings and http://printingcode.runemadsen.com/lecture-color/
+    -   [Pattern activity](https://www.notion.so/Graphics-1-Colour-Pattern-04b6e708c6d8458385983451668db0a3) (1 & 2) assessed
+        -   Activity 1: apply one of your colour palettes to a pattern — rows, columns, etc. Experiment with gaps between elements and randomness. Save as **pattern1**
+        -   Activity 2: change the pattern shape to something else (rectangles, lines, shapes). Play with scale, rotation, etc. Save as **pattern2**
+- **Submitting files**
+    -   Use the two sketches provided in this assignment as starting points. Be sure to read through them!
+    -   At the end, please upload **a single ZIP archive** (not a RAR!) containing:
+    -   **one sketch** for your palette activity named **palettes**  
+    -   **two sketches** for your pattern activity named **pattern1, pattern2**
