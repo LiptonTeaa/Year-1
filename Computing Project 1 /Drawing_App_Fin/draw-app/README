@@ -1,0 +1,13 @@
+Currently we have implemented the editable shape function into the application. We turned shapeTool from a self contained fucntion into a integrated part of this application by tying it into the dom and linking it with other functions( in sketch and index ). The function doesn't work very well currently but we plan to have it entirely functional over the course of the project. For the time being we have commented out the bits we were working on to make it a fully integrated part of the application and have added code about what problem it was running into or where the code was originally adapted from. Some of the main issued are, the buttons for edit shape and finish shape are at the bottom so you'll need to scroll down to see them and that the lines drawn arent completely straight and end up with multiple vertices on a single line. Hopefull all this information will help when going through the code and testing it.
+
+We plan to proceed with adding more tools to the application from the extentions idea such as different types of set shapes, fill functionality or editable stroke widths and so on. Things along these lines.
+
+This was all written for the peer review on 26th april ^
+
+Reference for the icon used for the shapeTool in the drawing app: https://www.vectorstock.com/royalty-free-vector/rhombus-shape-icon-flat-vector-23203224
+
+Reference for the icon used for the image tool in the drawing app: https://github.com/FortAwesome/Font-Awesome/issues/855
+
+Reference for the icon used for the corgiButt tool in the drawing application: // Keep running into the same error that saying p5.min cant draw image that isnt HTMLsvg/imgElement
+
+Reference for the image drawn by the corgiButt tool: https://www.hiptoro.com/p/25-corgi-butts-to-drive-you-nuts/
